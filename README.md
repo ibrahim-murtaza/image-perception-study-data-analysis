@@ -126,12 +126,12 @@ Labels dominate perception:
 If you use this data or code, please cite:
 
 ```bibtex
-@unpublished{Sajid2025ImagePerception,
+@unpublished{Murtaza2025ImagePerception,
   title={User Perception of AI Generated Images},
-  author={Sajid, Momina and Murtaza, Ibrahim and Imran, Khadija and Azhar, Xeerak},
+  author={Murtaza, Ibrahim and Imran, Khadija and Azhar, Xeerak and Sadjid, Momina},
   year={2025},
   institution={Lahore University of Management Sciences},
-  note={CS 6303 Final Project}
+  note={CS 6303 Final Project - Randomisation Interface}
 }
 ```
 
