@@ -1,0 +1,5 @@
+condition_code,Effort_Mean,Effort_SD,Effort_Min,Effort_Max,Sharing_Mean,Sharing_SD,Sharing_Min,Sharing_Max,N
+FN,4.8,1.59,1,7,4.17,1.91,1,7,117
+FP,3.94,1.76,1,7,3.6,2.1,1,7,117
+TN,4.91,1.69,1,7,4.21,2.04,1,7,117
+TP,3.85,1.66,1,7,3.38,2.12,1,7,117

@@ -1,0 +1,469 @@
+email,trial_num,image_path,label_shown,condition,true_origin,image_name,condition_code,label_correct,effort_rating,sharing_rating,name,age,gender,ai_familiarity
+mahsan.salarkhan@gmail.com,1,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,5,6,Muhammad Ahsan Salar Khan,21 - 23,Male,6
+mahsan.salarkhan@gmail.com,2,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,5,6,Muhammad Ahsan Salar Khan,21 - 23,Male,6
+mahsan.salarkhan@gmail.com,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,5,4,Muhammad Ahsan Salar Khan,21 - 23,Male,6
+mahsan.salarkhan@gmail.com,4,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,6,6,Muhammad Ahsan Salar Khan,21 - 23,Male,6
+27110079@lums.edu.pk,1,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,6,2,Shahmir Abdullah Shahid,21 - 23,Male,4
+27110079@lums.edu.pk,2,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,6,6,Shahmir Abdullah Shahid,21 - 23,Male,4
+27110079@lums.edu.pk,3,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,6,6,Shahmir Abdullah Shahid,21 - 23,Male,4
+27110079@lums.edu.pk,4,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,7,7,Shahmir Abdullah Shahid,21 - 23,Male,4
+abdullah.ahmad915@gmail.com,1,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,3,6,Abdullah,18 - 20,Male,3
+abdullah.ahmad915@gmail.com,2,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,6,2,Abdullah,18 - 20,Male,3
+abdullah.ahmad915@gmail.com,3,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,5,2,Abdullah,18 - 20,Male,3
+abdullah.ahmad915@gmail.com,4,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,4,7,Abdullah,18 - 20,Male,3
+27100236@lums.edu.pk,1,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,4,1,Umer Ashraf,18 - 20,Male,5
+27100236@lums.edu.pk,2,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,5,6,Umer Ashraf,18 - 20,Male,5
+27100236@lums.edu.pk,3,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,3,2,Umer Ashraf,18 - 20,Male,5
+27100236@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,4,4,Umer Ashraf,18 - 20,Male,5
+26100014@lums.edu.pk,1,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,2,1,Mikael Aziz,21 - 23,Male,6
+26100014@lums.edu.pk,2,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,4,6,Mikael Aziz,21 - 23,Male,6
+26100014@lums.edu.pk,3,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,3,6,Mikael Aziz,21 - 23,Male,6
+26100014@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,5,Mikael Aziz,21 - 23,Male,6
+26100133@lums.edu.pk,1,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,6,4,Ali Haris,21 - 23,Male,7
+26100133@lums.edu.pk,2,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,6,4,Ali Haris,21 - 23,Male,7
+26100133@lums.edu.pk,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,6,4,Ali Haris,21 - 23,Male,7
+26100133@lums.edu.pk,4,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,3,4,Ali Haris,21 - 23,Male,7
+27100071@lums.edu.pk,1,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,6,3,Muneeb,27 or above,Male,4
+27100071@lums.edu.pk,2,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,5,3,Muneeb,27 or above,Male,4
+27100071@lums.edu.pk,3,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,2,4,Muneeb,27 or above,Male,4
+27100071@lums.edu.pk,4,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,5,2,Muneeb,27 or above,Male,4
+aliazher45@gmail.com,1,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,5,3,Ali Azhar,21 - 23,Male,2
+aliazher45@gmail.com,2,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,2,2,Ali Azhar,21 - 23,Male,2
+aliazher45@gmail.com,3,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,3,2,Ali Azhar,21 - 23,Male,2
+aliazher45@gmail.com,4,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,5,4,Ali Azhar,21 - 23,Male,2
+emaqureshi47@gmail.com,1,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,7,7,Eman,21 - 23,Female,7
+emaqureshi47@gmail.com,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,7,Eman,21 - 23,Female,7
+emaqureshi47@gmail.com,3,images/real/mountain_clouds.png,Human-Created,TN (True Negative),Real,mountain_clouds,TN,True,7,7,Eman,21 - 23,Female,7
+emaqureshi47@gmail.com,4,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,4,4,Eman,21 - 23,Female,7
+27100289@lums.edu.pk,1,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,5,2,Mahad Amir,21 - 23,Male,4
+27100289@lums.edu.pk,2,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,4,5,Mahad Amir,21 - 23,Male,4
+27100289@lums.edu.pk,3,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,5,2,Mahad Amir,21 - 23,Male,4
+27100289@lums.edu.pk,4,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,4,4,Mahad Amir,21 - 23,Male,4
+syedibrahimhassan04@gmail.com,1,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,5,5,Syed Ibrahim Bin Hassan,21 - 23,Male,3
+syedibrahimhassan04@gmail.com,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,3,2,Syed Ibrahim Bin Hassan,21 - 23,Male,3
+syedibrahimhassan04@gmail.com,3,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,1,1,Syed Ibrahim Bin Hassan,21 - 23,Male,3
+syedibrahimhassan04@gmail.com,4,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,6,6,Syed Ibrahim Bin Hassan,21 - 23,Male,3
+26100107@lums.edu.pk,1,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,5,6,Zaeem Khan,21 - 23,Male,5
+26100107@lums.edu.pk,2,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,3,4,Zaeem Khan,21 - 23,Male,5
+26100107@lums.edu.pk,3,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,7,7,Zaeem Khan,21 - 23,Male,5
+26100107@lums.edu.pk,4,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,6,5,Zaeem Khan,21 - 23,Male,5
+27100172@lums.edu.pk,1,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,4,2,Muhammad Ali Shah,21 - 23,Male,2
+27100172@lums.edu.pk,2,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,6,5,Muhammad Ali Shah,21 - 23,Male,2
+27100172@lums.edu.pk,3,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,6,6,Muhammad Ali Shah,21 - 23,Male,2
+27100172@lums.edu.pk,4,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,6,4,Muhammad Ali Shah,21 - 23,Male,2
+izzanaseer45@gmail.com,1,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,6,Izza Naseer,21 - 23,Female,7
+izzanaseer45@gmail.com,2,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,2,3,Izza Naseer,21 - 23,Female,7
+izzanaseer45@gmail.com,3,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,3,1,Izza Naseer,21 - 23,Female,7
+izzanaseer45@gmail.com,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,4,6,Izza Naseer,21 - 23,Female,7
+26100009@lums.edu.pk,1,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,3,1,Ahsan Usman,21 - 23,Male,6
+26100009@lums.edu.pk,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,5,1,Ahsan Usman,21 - 23,Male,6
+26100009@lums.edu.pk,3,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,5,1,Ahsan Usman,21 - 23,Male,6
+26100009@lums.edu.pk,4,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,7,2,Ahsan Usman,21 - 23,Male,6
+26100067@lums.edu.pk,1,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,5,3,Mohammad Huzaifa,21 - 23,Male,6
+26100067@lums.edu.pk,2,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,5,5,Mohammad Huzaifa,21 - 23,Male,6
+26100067@lums.edu.pk,3,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,7,6,Mohammad Huzaifa,21 - 23,Male,6
+26100067@lums.edu.pk,4,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,2,1,Mohammad Huzaifa,21 - 23,Male,6
+26100362@lums.edu.pk,1,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,2,2,Mahnoor Kashif,21 - 23,Female,2
+26100362@lums.edu.pk,2,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,3,1,Mahnoor Kashif,21 - 23,Female,2
+26100362@lums.edu.pk,3,images/ai/feeding_the_poor.png,AI-Generated,TP (True Positive),AI,feeding_the_poor,TP,True,1,1,Mahnoor Kashif,21 - 23,Female,2
+26100362@lums.edu.pk,4,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,5,4,Mahnoor Kashif,21 - 23,Female,2
+armaghanali2004@gmail.com,1,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,4,6,Armaghan Ali,21 - 23,Male,2
+armaghanali2004@gmail.com,2,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,2,3,Armaghan Ali,21 - 23,Male,2
+armaghanali2004@gmail.com,3,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,1,1,Armaghan Ali,21 - 23,Male,2
+armaghanali2004@gmail.com,4,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,1,5,Armaghan Ali,21 - 23,Male,2
+27100100@lums.edu.pk,1,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,2,1,Vania Zahra Malik,21 - 23,Female,3
+27100100@lums.edu.pk,2,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,1,1,Vania Zahra Malik,21 - 23,Female,3
+27100100@lums.edu.pk,3,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,5,4,Vania Zahra Malik,21 - 23,Female,3
+27100100@lums.edu.pk,4,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,5,1,Vania Zahra Malik,21 - 23,Female,3
+mfarooq4321@gmail.com,1,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,5,2,Muhammad Farooq,18 - 20,Male,6
+mfarooq4321@gmail.com,2,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,4,5,Muhammad Farooq,18 - 20,Male,6
+mfarooq4321@gmail.com,3,images/ai/feeding_the_poor.png,AI-Generated,TP (True Positive),AI,feeding_the_poor,TP,True,4,3,Muhammad Farooq,18 - 20,Male,6
+mfarooq4321@gmail.com,4,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,4,5,Muhammad Farooq,18 - 20,Male,6
+28100324@lums.edu.pk,1,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,3,2,Talal Tayyab,18 - 20,Male,5
+28100324@lums.edu.pk,2,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,2,1,Talal Tayyab,18 - 20,Male,5
+28100324@lums.edu.pk,3,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,6,Talal Tayyab,18 - 20,Male,5
+28100324@lums.edu.pk,4,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,3,2,Talal Tayyab,18 - 20,Male,5
+27100103@lums.edu.pk,1,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,3,6,Laiba Nizar,18 - 20,Female,5
+27100103@lums.edu.pk,2,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,5,7,Laiba Nizar,18 - 20,Female,5
+27100103@lums.edu.pk,3,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,2,6,Laiba Nizar,18 - 20,Female,5
+27100103@lums.edu.pk,4,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,7,7,Laiba Nizar,18 - 20,Female,5
+27100420@lums.edu.pk,1,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,5,2,Mustafa Soban,21 - 23,Male,6
+27100420@lums.edu.pk,2,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,7,6,Mustafa Soban,21 - 23,Male,6
+27100420@lums.edu.pk,3,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,3,2,Mustafa Soban,21 - 23,Male,6
+27100420@lums.edu.pk,4,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,4,2,Mustafa Soban,21 - 23,Male,6
+28100032@lums.edu.pk,1,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,3,5,Hassan Adnan,21 - 23,Male,5
+28100032@lums.edu.pk,2,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,3,2,Hassan Adnan,21 - 23,Male,5
+28100032@lums.edu.pk,3,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,3,1,Hassan Adnan,21 - 23,Male,5
+28100032@lums.edu.pk,4,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,3,4,Hassan Adnan,21 - 23,Male,5
+28100036@lums.edu.pk,1,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,1,1,Malik Nawfal Mahmood,21 - 23,Male,5
+28100036@lums.edu.pk,2,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,5,4,Malik Nawfal Mahmood,21 - 23,Male,5
+28100036@lums.edu.pk,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,4,2,Malik Nawfal Mahmood,21 - 23,Male,5
+28100036@lums.edu.pk,4,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,1,2,Malik Nawfal Mahmood,21 - 23,Male,5
+28100386@lums.edu.pk,1,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,2,2,Muhammad Hizman,18 - 20,Male,2
+28100386@lums.edu.pk,2,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,4,5,Muhammad Hizman,18 - 20,Male,2
+28100386@lums.edu.pk,3,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,3,3,Muhammad Hizman,18 - 20,Male,2
+28100386@lums.edu.pk,4,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,3,1,Muhammad Hizman,18 - 20,Male,2
+28100216@lums.edu.pk,1,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,2,1,Ayaan,18 - 20,Male,6
+28100216@lums.edu.pk,2,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,5,3,Ayaan,18 - 20,Male,6
+28100216@lums.edu.pk,3,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,3,1,Ayaan,18 - 20,Male,6
+28100216@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,3,1,Ayaan,18 - 20,Male,6
+tahasarfraz783@gmail.com,1,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,5,5,Muhammad Taha Sarfraz,18 - 20,Male,6
+tahasarfraz783@gmail.com,2,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,7,6,Muhammad Taha Sarfraz,18 - 20,Male,6
+tahasarfraz783@gmail.com,3,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,6,5,Muhammad Taha Sarfraz,18 - 20,Male,6
+tahasarfraz783@gmail.com,4,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,6,4,Muhammad Taha Sarfraz,18 - 20,Male,6
+zainabmujtaba06@gmail.com,1,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,4,3,zainab mujtaba,18 - 20,Other,5
+zainabmujtaba06@gmail.com,2,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,1,1,zainab mujtaba,18 - 20,Other,5
+zainabmujtaba06@gmail.com,3,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,1,1,zainab mujtaba,18 - 20,Other,5
+zainabmujtaba06@gmail.com,4,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,5,6,zainab mujtaba,18 - 20,Other,5
+romaisarrehab@gmail.com,1,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,5,7,Romaisarrehab,18 - 20,Female,1
+romaisarrehab@gmail.com,2,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,6,6,Romaisarrehab,18 - 20,Female,1
+romaisarrehab@gmail.com,3,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,4,4,Romaisarrehab,18 - 20,Female,1
+romaisarrehab@gmail.com,4,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,4,4,Romaisarrehab,18 - 20,Female,1
+2510v002@lums.edu.pk,1,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,5,2,Neha Khalid,21 - 23,Female,7
+2510v002@lums.edu.pk,2,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,3,1,Neha Khalid,21 - 23,Female,7
+2510v002@lums.edu.pk,3,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,3,4,Neha Khalid,21 - 23,Female,7
+2510v002@lums.edu.pk,4,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,3,6,Neha Khalid,21 - 23,Female,7
+27100107@lums.edu.pk,1,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,5,3,Emaan Mubarik,21 - 23,Female,5
+27100107@lums.edu.pk,2,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,3,6,Emaan Mubarik,21 - 23,Female,5
+27100107@lums.edu.pk,3,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,7,5,Emaan Mubarik,21 - 23,Female,5
+27100107@lums.edu.pk,4,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,5,7,Emaan Mubarik,21 - 23,Female,5
+nashmiyayousuf3@gmail.com,1,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,5,1,Nashmiya Yousuf,21 - 23,Female,2
+nashmiyayousuf3@gmail.com,2,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,5,2,Nashmiya Yousuf,21 - 23,Female,2
+nashmiyayousuf3@gmail.com,3,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,4,2,Nashmiya Yousuf,21 - 23,Female,2
+nashmiyayousuf3@gmail.com,4,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,6,2,Nashmiya Yousuf,21 - 23,Female,2
+26100168@lums.edu.pk,1,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,5,3,Haider,21 - 23,Male,5
+26100168@lums.edu.pk,2,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,7,7,Haider,21 - 23,Male,5
+26100168@lums.edu.pk,3,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,4,1,Haider,21 - 23,Male,5
+26100168@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,7,Haider,21 - 23,Male,5
+26020389@lums.edu.pk,1,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,4,1,Hira,24 - 26,Female,1
+26020389@lums.edu.pk,2,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,4,1,Hira,24 - 26,Female,1
+26020389@lums.edu.pk,3,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,3,1,Hira,24 - 26,Female,1
+26020389@lums.edu.pk,4,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,1,1,Hira,24 - 26,Female,1
+rameesa.tq@gmail.com,1,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,5,2,Rameesa Tariq,21 - 23,Female,6
+rameesa.tq@gmail.com,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,6,7,Rameesa Tariq,21 - 23,Female,6
+rameesa.tq@gmail.com,3,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,2,1,Rameesa Tariq,21 - 23,Female,6
+rameesa.tq@gmail.com,4,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,3,7,Rameesa Tariq,21 - 23,Female,6
+26020336@lums.edu.pk,1,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,7,5,Easha Imtiaz,21 - 23,Female,2
+26020336@lums.edu.pk,2,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,2,1,Easha Imtiaz,21 - 23,Female,2
+26020336@lums.edu.pk,3,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,6,4,Easha Imtiaz,21 - 23,Female,2
+26020336@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,2,Easha Imtiaz,21 - 23,Female,2
+28020514@lums.edu.pk,1,images/real/mountain_clouds.png,Human-Created,TN (True Negative),Real,mountain_clouds,TN,True,3,6,Sameen Suhaib,18 - 20,Female,2
+28020514@lums.edu.pk,2,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,4,1,Sameen Suhaib,18 - 20,Female,2
+28020514@lums.edu.pk,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,3,2,Sameen Suhaib,18 - 20,Female,2
+28020514@lums.edu.pk,4,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,4,7,Sameen Suhaib,18 - 20,Female,2
+fatimashariff1@gmail.com,1,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,7,5,Fatima,21 - 23,Female,5
+fatimashariff1@gmail.com,2,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,4,3,Fatima,21 - 23,Female,5
+fatimashariff1@gmail.com,3,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,6,6,Fatima,21 - 23,Female,5
+fatimashariff1@gmail.com,4,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,7,6,Fatima,21 - 23,Female,5
+mashalsalimi2021@gmail.com,1,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,7,4,Mashal Salimi,21 - 23,Female,3
+mashalsalimi2021@gmail.com,2,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,2,7,Mashal Salimi,21 - 23,Female,3
+mashalsalimi2021@gmail.com,3,images/ai/feeding_the_poor.png,AI-Generated,TP (True Positive),AI,feeding_the_poor,TP,True,2,5,Mashal Salimi,21 - 23,Female,3
+mashalsalimi2021@gmail.com,4,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,7,7,Mashal Salimi,21 - 23,Female,3
+rayan.atif2@gmail.com,1,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,6,6,Rayan Atif,21 - 23,Male,6
+rayan.atif2@gmail.com,2,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,3,5,Rayan Atif,21 - 23,Male,6
+rayan.atif2@gmail.com,3,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,6,5,Rayan Atif,21 - 23,Male,6
+rayan.atif2@gmail.com,4,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,4,3,Rayan Atif,21 - 23,Male,6
+27100468@lums.edu.pk,1,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,2,2,Karar Haider,18 - 20,Male,7
+27100468@lums.edu.pk,2,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,3,3,Karar Haider,18 - 20,Male,7
+27100468@lums.edu.pk,3,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,4,7,Karar Haider,18 - 20,Male,7
+27100468@lums.edu.pk,4,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,3,4,Karar Haider,18 - 20,Male,7
+28100421@lums.edu.pk,1,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,2,4,Danish Javed,18 - 20,Male,3
+28100421@lums.edu.pk,2,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,4,5,Danish Javed,18 - 20,Male,3
+28100421@lums.edu.pk,3,images/ai/feeding_the_poor.png,AI-Generated,TP (True Positive),AI,feeding_the_poor,TP,True,1,1,Danish Javed,18 - 20,Male,3
+28100421@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,1,1,Danish Javed,18 - 20,Male,3
+27100015@lums.edu.pk,1,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,7,2,Maham Asif,21 - 23,Female,4
+27100015@lums.edu.pk,2,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,3,1,Maham Asif,21 - 23,Female,4
+27100015@lums.edu.pk,3,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,3,2,Maham Asif,21 - 23,Female,4
+27100015@lums.edu.pk,4,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,6,5,Maham Asif,21 - 23,Female,4
+27100465@lums.edu.pk,1,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,4,3,Abdul Ahad Jawad,21 - 23,Male,5
+27100465@lums.edu.pk,2,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,5,4,Abdul Ahad Jawad,21 - 23,Male,5
+27100465@lums.edu.pk,3,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,6,5,Abdul Ahad Jawad,21 - 23,Male,5
+27100465@lums.edu.pk,4,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,6,4,Abdul Ahad Jawad,21 - 23,Male,5
+zaid.gagan@gmail.com,1,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,6,1,Zaid,21 - 23,Male,5
+zaid.gagan@gmail.com,2,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,6,4,Zaid,21 - 23,Male,5
+zaid.gagan@gmail.com,3,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,3,2,Zaid,21 - 23,Male,5
+zaid.gagan@gmail.com,4,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,4,1,Zaid,21 - 23,Male,5
+27100330@lums.edu.pk,1,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,6,hannan mustafa,18 - 20,Male,7
+27100330@lums.edu.pk,2,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,1,1,hannan mustafa,18 - 20,Male,7
+27100330@lums.edu.pk,3,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,6,5,hannan mustafa,18 - 20,Male,7
+27100330@lums.edu.pk,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,3,3,hannan mustafa,18 - 20,Male,7
+27100476@lums.edu.pk,1,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,6,5,Muhammad Hamza Habib,21 - 23,Male,6
+27100476@lums.edu.pk,2,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,3,1,Muhammad Hamza Habib,21 - 23,Male,6
+27100476@lums.edu.pk,3,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,1,1,Muhammad Hamza Habib,21 - 23,Male,6
+27100476@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,6,5,Muhammad Hamza Habib,21 - 23,Male,6
+27100324@lums.edu.pk,1,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,5,2,Abdullah Mushtaq,21 - 23,Male,5
+27100324@lums.edu.pk,2,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,4,1,Abdullah Mushtaq,21 - 23,Male,5
+27100324@lums.edu.pk,3,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,7,6,Abdullah Mushtaq,21 - 23,Male,5
+27100324@lums.edu.pk,4,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,5,4,Abdullah Mushtaq,21 - 23,Male,5
+27100063@lums.edu.pk,1,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,5,5,Saleh Farooq,21 - 23,Male,6
+27100063@lums.edu.pk,2,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,7,4,Saleh Farooq,21 - 23,Male,6
+27100063@lums.edu.pk,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,5,6,Saleh Farooq,21 - 23,Male,6
+27100063@lums.edu.pk,4,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,4,7,Saleh Farooq,21 - 23,Male,6
+27100269@lums.edu.pk,1,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,5,3,Iyan Aamir Aslam,21 - 23,Male,4
+27100269@lums.edu.pk,2,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,4,4,Iyan Aamir Aslam,21 - 23,Male,4
+27100269@lums.edu.pk,3,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,5,2,Iyan Aamir Aslam,21 - 23,Male,4
+27100269@lums.edu.pk,4,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,5,6,Iyan Aamir Aslam,21 - 23,Male,4
+27100390@lums.edu.pk,1,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,6,6,Muhammad Mahasin Irfan,21 - 23,Male,7
+27100390@lums.edu.pk,2,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,6,6,Muhammad Mahasin Irfan,21 - 23,Male,7
+27100390@lums.edu.pk,3,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,1,7,Muhammad Mahasin Irfan,21 - 23,Male,7
+27100390@lums.edu.pk,4,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,1,7,Muhammad Mahasin Irfan,21 - 23,Male,7
+maazkshf123@gmail.com,1,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,3,4,Maaz kashif,21 - 23,Male,6
+maazkshf123@gmail.com,2,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,3,3,Maaz kashif,21 - 23,Male,6
+maazkshf123@gmail.com,3,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,2,5,Maaz kashif,21 - 23,Male,6
+maazkshf123@gmail.com,4,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,5,5,Maaz kashif,21 - 23,Male,6
+huzaifa.ahmad@lums.edu.pk,1,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,5,6,Huzaifa Ahmad,21 - 23,Male,5
+huzaifa.ahmad@lums.edu.pk,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,7,Huzaifa Ahmad,21 - 23,Male,5
+huzaifa.ahmad@lums.edu.pk,3,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,3,1,Huzaifa Ahmad,21 - 23,Male,5
+huzaifa.ahmad@lums.edu.pk,4,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,5,5,Huzaifa Ahmad,21 - 23,Male,5
+27100171@lums.edu.pk,1,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,6,4,Tayyab Waseem,18 - 20,Male,1
+27100171@lums.edu.pk,2,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,6,3,Tayyab Waseem,18 - 20,Male,1
+27100171@lums.edu.pk,3,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,5,5,Tayyab Waseem,18 - 20,Male,1
+27100171@lums.edu.pk,4,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,4,1,Tayyab Waseem,18 - 20,Male,1
+27100240@lums.edu.pk,1,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,5,5,Aliza Khan,21 - 23,Female,5
+27100240@lums.edu.pk,2,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,6,6,Aliza Khan,21 - 23,Female,5
+27100240@lums.edu.pk,3,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,3,2,Aliza Khan,21 - 23,Female,5
+27100240@lums.edu.pk,4,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,3,1,Aliza Khan,21 - 23,Female,5
+snehalohana67@gmail.com,1,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,5,2,Sneha,18 - 20,Female,4
+snehalohana67@gmail.com,2,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,3,1,Sneha,18 - 20,Female,4
+snehalohana67@gmail.com,3,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,2,3,Sneha,18 - 20,Female,4
+snehalohana67@gmail.com,4,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,6,5,Sneha,18 - 20,Female,4
+27100430@lums.edu.pk,1,images/real/mountain_clouds.png,Human-Created,TN (True Negative),Real,mountain_clouds,TN,True,5,4,Abeeha Imran,21 - 23,Female,7
+27100430@lums.edu.pk,2,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,6,5,Abeeha Imran,21 - 23,Female,7
+27100430@lums.edu.pk,3,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,7,7,Abeeha Imran,21 - 23,Female,7
+27100430@lums.edu.pk,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,7,5,Abeeha Imran,21 - 23,Female,7
+27100409@lums.edu.pk,1,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,5,Zainab Usman,21 - 23,Female,3
+27100409@lums.edu.pk,2,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,6,7,Zainab Usman,21 - 23,Female,3
+27100409@lums.edu.pk,3,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,4,5,Zainab Usman,21 - 23,Female,3
+27100409@lums.edu.pk,4,images/real/mountain_clouds.png,Human-Created,TN (True Negative),Real,mountain_clouds,TN,True,7,6,Zainab Usman,21 - 23,Female,3
+26110130@lums.edu.pk,1,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,6,3,Kainat,21 - 23,Female,5
+26110130@lums.edu.pk,2,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,3,5,Kainat,21 - 23,Female,5
+26110130@lums.edu.pk,3,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,7,5,Kainat,21 - 23,Female,5
+26110130@lums.edu.pk,4,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,7,6,Kainat,21 - 23,Female,5
+26110264@lums.edu.pk,1,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,2,1,Maryam Rahman,21 - 23,Female,7
+26110264@lums.edu.pk,2,images/real/mountain_clouds.png,Human-Created,TN (True Negative),Real,mountain_clouds,TN,True,5,4,Maryam Rahman,21 - 23,Female,7
+26110264@lums.edu.pk,3,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,3,5,Maryam Rahman,21 - 23,Female,7
+26110264@lums.edu.pk,4,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,3,4,Maryam Rahman,21 - 23,Female,7
+rayanalikhalid4405@gmail.com,1,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,5,5,Rayan Ali Khalid,21 - 23,Male,7
+rayanalikhalid4405@gmail.com,2,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,4,6,Rayan Ali Khalid,21 - 23,Male,7
+rayanalikhalid4405@gmail.com,3,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,6,2,Rayan Ali Khalid,21 - 23,Male,7
+rayanalikhalid4405@gmail.com,4,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,6,7,Rayan Ali Khalid,21 - 23,Male,7
+29110244@lums.edu.pk,1,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,4,2,Muhammad Maaz Khan,18 - 20,Male,5
+29110244@lums.edu.pk,2,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,6,7,Muhammad Maaz Khan,18 - 20,Male,5
+29110244@lums.edu.pk,3,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,7,7,Muhammad Maaz Khan,18 - 20,Male,5
+29110244@lums.edu.pk,4,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,4,1,Muhammad Maaz Khan,18 - 20,Male,5
+29110272@lums.edu.pk,1,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,5,5,Muhammad Ahmad,18 - 20,Male,3
+29110272@lums.edu.pk,2,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,5,5,Muhammad Ahmad,18 - 20,Male,3
+29110272@lums.edu.pk,3,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,4,4,Muhammad Ahmad,18 - 20,Male,3
+29110272@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,6,5,Muhammad Ahmad,18 - 20,Male,3
+29110269@lums.edu.pk,1,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,6,5,Muhammad Aoun Shahid,18 - 20,Male,3
+29110269@lums.edu.pk,2,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,7,Muhammad Aoun Shahid,18 - 20,Male,3
+29110269@lums.edu.pk,3,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,7,Muhammad Aoun Shahid,18 - 20,Male,3
+29110269@lums.edu.pk,4,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,5,2,Muhammad Aoun Shahid,18 - 20,Male,3
+kashaf.qamar04@gmail.com,1,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,5,5,Kashaf,21 - 23,Female,2
+kashaf.qamar04@gmail.com,2,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,5,5,Kashaf,21 - 23,Female,2
+kashaf.qamar04@gmail.com,3,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,4,3,Kashaf,21 - 23,Female,2
+kashaf.qamar04@gmail.com,4,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,7,6,Kashaf,21 - 23,Female,2
+m.hashir.0101@gmail.com,1,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,6,5,Hashir,21 - 23,Male,7
+m.hashir.0101@gmail.com,2,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,7,7,Hashir,21 - 23,Male,7
+m.hashir.0101@gmail.com,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,1,1,Hashir,21 - 23,Male,7
+m.hashir.0101@gmail.com,4,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,2,4,Hashir,21 - 23,Male,7
+26110120@lums.edu.pk,1,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,2,1,Noor,21 - 23,Female,4
+26110120@lums.edu.pk,2,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,1,1,Noor,21 - 23,Female,4
+26110120@lums.edu.pk,3,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,3,1,Noor,21 - 23,Female,4
+26110120@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,1,Noor,21 - 23,Female,4
+fatima.bilal04@yahoo.com,1,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,1,1,Fatima Bilal,21 - 23,Female,1
+fatima.bilal04@yahoo.com,2,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,1,1,Fatima Bilal,21 - 23,Female,1
+fatima.bilal04@yahoo.com,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,6,6,Fatima Bilal,21 - 23,Female,1
+fatima.bilal04@yahoo.com,4,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,7,5,Fatima Bilal,21 - 23,Female,1
+qasimayubrashid@gmail.com,1,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,6,2,Muhammad Qasim Ayub,21 - 23,Male,4
+qasimayubrashid@gmail.com,2,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,4,1,Muhammad Qasim Ayub,21 - 23,Male,4
+qasimayubrashid@gmail.com,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,7,5,Muhammad Qasim Ayub,21 - 23,Male,4
+qasimayubrashid@gmail.com,4,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,5,3,Muhammad Qasim Ayub,21 - 23,Male,4
+bushrazubair200@gmail.com,1,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,3,3,Bushra,21 - 23,Female,7
+bushrazubair200@gmail.com,2,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,3,5,Bushra,21 - 23,Female,7
+bushrazubair200@gmail.com,3,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,6,4,Bushra,21 - 23,Female,7
+bushrazubair200@gmail.com,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,4,5,Bushra,21 - 23,Female,7
+26100126@lums.edu.pk,1,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,7,2,Maaidah Kaleem,21 - 23,Female,1
+26100126@lums.edu.pk,2,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,6,1,Maaidah Kaleem,21 - 23,Female,1
+26100126@lums.edu.pk,3,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,6,2,Maaidah Kaleem,21 - 23,Female,1
+26100126@lums.edu.pk,4,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,4,3,Maaidah Kaleem,21 - 23,Female,1
+27100410@lums.edu.pk,1,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,5,7,Eisha Raazia,18 - 20,Female,2
+27100410@lums.edu.pk,2,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,7,7,Eisha Raazia,18 - 20,Female,2
+27100410@lums.edu.pk,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,5,4,Eisha Raazia,18 - 20,Female,2
+27100410@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,4,5,Eisha Raazia,18 - 20,Female,2
+26100171@lums.edu.pk,1,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,5,6,Ayesha atif,21 - 23,Female,2
+26100171@lums.edu.pk,2,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,6,6,Ayesha atif,21 - 23,Female,2
+26100171@lums.edu.pk,3,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,3,2,Ayesha atif,21 - 23,Female,2
+26100171@lums.edu.pk,4,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,5,6,Ayesha atif,21 - 23,Female,2
+26100058@lums.edu.pk,1,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,6,6,Zainab Humayun,21 - 23,Female,5
+26100058@lums.edu.pk,2,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,3,6,Zainab Humayun,21 - 23,Female,5
+26100058@lums.edu.pk,3,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,4,6,Zainab Humayun,21 - 23,Female,5
+26100058@lums.edu.pk,4,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,7,Zainab Humayun,21 - 23,Female,5
+ahmadkashifxyz@gmail.com,1,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,3,5,Muhammad Ahmad Kashif,21 - 23,Male,7
+ahmadkashifxyz@gmail.com,2,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,6,7,Muhammad Ahmad Kashif,21 - 23,Male,7
+ahmadkashifxyz@gmail.com,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,2,3,Muhammad Ahmad Kashif,21 - 23,Male,7
+ahmadkashifxyz@gmail.com,4,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,5,2,Muhammad Ahmad Kashif,21 - 23,Male,7
+27100478@lums.edu.pk,1,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,4,1,Areeba fatima,18 - 20,Female,3
+27100478@lums.edu.pk,2,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,5,1,Areeba fatima,18 - 20,Female,3
+27100478@lums.edu.pk,3,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,2,1,Areeba fatima,18 - 20,Female,3
+27100478@lums.edu.pk,4,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,5,2,Areeba fatima,18 - 20,Female,3
+muhammad.khaquan@lums.edu.pk,1,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,4,6,Muhammad khaquan,21 - 23,Male,6
+muhammad.khaquan@lums.edu.pk,2,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,6,3,Muhammad khaquan,21 - 23,Male,6
+muhammad.khaquan@lums.edu.pk,3,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,1,6,Muhammad khaquan,21 - 23,Male,6
+muhammad.khaquan@lums.edu.pk,4,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,5,4,Muhammad khaquan,21 - 23,Male,6
+abdul.rafay@lums.edu.pk,1,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,5,1,Abdul Rafay,24 - 26,Male,3
+abdul.rafay@lums.edu.pk,2,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,3,1,Abdul Rafay,24 - 26,Male,3
+abdul.rafay@lums.edu.pk,3,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,6,3,Abdul Rafay,24 - 26,Male,3
+abdul.rafay@lums.edu.pk,4,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,3,4,Abdul Rafay,24 - 26,Male,3
+26110032@lums.edu.pk,1,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,5,5,Abdullah Ahmad,18 - 20,Male,5
+26110032@lums.edu.pk,2,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,4,6,Abdullah Ahmad,18 - 20,Male,5
+26110032@lums.edu.pk,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,6,7,Abdullah Ahmad,18 - 20,Male,5
+26110032@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,4,6,Abdullah Ahmad,18 - 20,Male,5
+26110226@lums.edu.pk,1,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,3,5,Heba,21 - 23,Female,1
+26110226@lums.edu.pk,2,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,6,7,Heba,21 - 23,Female,1
+26110226@lums.edu.pk,3,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,7,7,Heba,21 - 23,Female,1
+26110226@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,7,7,Heba,21 - 23,Female,1
+aysha.aslam@lums.edu.pk,1,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,2,1,Aysha,24 - 26,Female,7
+aysha.aslam@lums.edu.pk,2,images/real/football.png,AI-Generated,FP (False Positive),Real,football,FP,False,5,4,Aysha,24 - 26,Female,7
+aysha.aslam@lums.edu.pk,3,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,7,7,Aysha,24 - 26,Female,7
+aysha.aslam@lums.edu.pk,4,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,3,4,Aysha,24 - 26,Female,7
+aliiftikhargondal1435@gmail.com,1,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,3,1,Ali,24 - 26,Male,5
+aliiftikhargondal1435@gmail.com,2,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,6,5,Ali,24 - 26,Male,5
+aliiftikhargondal1435@gmail.com,3,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,1,6,Ali,24 - 26,Male,5
+aliiftikhargondal1435@gmail.com,4,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,2,1,Ali,24 - 26,Male,5
+safa.salam@lums.edu.pk,1,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,4,2,Safa Salam,21 - 23,Female,6
+safa.salam@lums.edu.pk,2,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,2,5,Safa Salam,21 - 23,Female,6
+safa.salam@lums.edu.pk,3,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,5,4,Safa Salam,21 - 23,Female,6
+safa.salam@lums.edu.pk,4,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,1,6,Safa Salam,21 - 23,Female,6
+26100011@lums.edu.pk,1,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,5,5,Hussain,21 - 23,Male,2
+26100011@lums.edu.pk,2,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,6,5,Hussain,21 - 23,Male,2
+26100011@lums.edu.pk,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,4,2,Hussain,21 - 23,Male,2
+26100011@lums.edu.pk,4,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,2,1,Hussain,21 - 23,Male,2
+aamina.khan@lums.edu.pk,1,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,5,7,Aamina Jamal Khan,21 - 23,Female,5
+aamina.khan@lums.edu.pk,2,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,6,7,Aamina Jamal Khan,21 - 23,Female,5
+aamina.khan@lums.edu.pk,3,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,7,7,Aamina Jamal Khan,21 - 23,Female,5
+aamina.khan@lums.edu.pk,4,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,7,7,Aamina Jamal Khan,21 - 23,Female,5
+mehreeniqball340@gmail.com,1,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,3,1,Mehreen Iqbal,21 - 23,Female,3
+mehreeniqball340@gmail.com,2,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,2,1,Mehreen Iqbal,21 - 23,Female,3
+mehreeniqball340@gmail.com,3,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,1,1,Mehreen Iqbal,21 - 23,Female,3
+mehreeniqball340@gmail.com,4,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,3,2,Mehreen Iqbal,21 - 23,Female,3
+ammaidfortnite@gmail.com,1,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,4,2,Muneeb Ur Raheem,18 - 20,Male,7
+ammaidfortnite@gmail.com,2,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,6,5,Muneeb Ur Raheem,18 - 20,Male,7
+ammaidfortnite@gmail.com,3,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,2,1,Muneeb Ur Raheem,18 - 20,Male,7
+ammaidfortnite@gmail.com,4,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,5,4,Muneeb Ur Raheem,18 - 20,Male,7
+26100026@lums.edu.pk,1,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,5,5,Sheraz Waseem,21 - 23,Male,7
+26100026@lums.edu.pk,2,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,4,3,Sheraz Waseem,21 - 23,Male,7
+26100026@lums.edu.pk,3,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,6,2,Sheraz Waseem,21 - 23,Male,7
+26100026@lums.edu.pk,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,4,5,Sheraz Waseem,21 - 23,Male,7
+izzaashraf2367@gmail.com,1,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,4,3,Izza Ashraf,21 - 23,Female,3
+izzaashraf2367@gmail.com,2,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,6,3,Izza Ashraf,21 - 23,Female,3
+izzaashraf2367@gmail.com,3,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,2,1,Izza Ashraf,21 - 23,Female,3
+izzaashraf2367@gmail.com,4,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,6,3,Izza Ashraf,21 - 23,Female,3
+areehaafzal1@gmail.com,1,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,4,2,Areeha Afzal,21 - 23,Female,1
+areehaafzal1@gmail.com,2,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,5,6,Areeha Afzal,21 - 23,Female,1
+areehaafzal1@gmail.com,3,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,7,5,Areeha Afzal,21 - 23,Female,1
+areehaafzal1@gmail.com,4,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,7,6,Areeha Afzal,21 - 23,Female,1
+26100164@lums.edu.pk,1,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,7,5,Shirin Rehman,21 - 23,Female,4
+26100164@lums.edu.pk,2,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,6,5,Shirin Rehman,21 - 23,Female,4
+26100164@lums.edu.pk,3,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,7,7,Shirin Rehman,21 - 23,Female,4
+26100164@lums.edu.pk,4,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,2,3,Shirin Rehman,21 - 23,Female,4
+amaanbaig189@gmail.com,1,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,3,3,Amaan Baig,21 - 23,Male,6
+amaanbaig189@gmail.com,2,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,5,4,Amaan Baig,21 - 23,Male,6
+amaanbaig189@gmail.com,3,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,5,2,Amaan Baig,21 - 23,Male,6
+amaanbaig189@gmail.com,4,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,5,4,Amaan Baig,21 - 23,Male,6
+26100206@lums.edu.pk,1,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,5,4,Maniha Inam,21 - 23,Female,4
+26100206@lums.edu.pk,2,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,6,5,Maniha Inam,21 - 23,Female,4
+26100206@lums.edu.pk,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,5,5,Maniha Inam,21 - 23,Female,4
+26100206@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,4,5,Maniha Inam,21 - 23,Female,4
+sbirds123@gmail.com,1,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,4,3,Muhammad Saad Tausif,21 - 23,Male,6
+sbirds123@gmail.com,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,6,6,Muhammad Saad Tausif,21 - 23,Male,6
+sbirds123@gmail.com,3,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,3,3,Muhammad Saad Tausif,21 - 23,Male,6
+sbirds123@gmail.com,4,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,5,4,Muhammad Saad Tausif,21 - 23,Male,6
+27100033@lums.edu.pk,1,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,1,1,Amna Imran Rana,18 - 20,Female,1
+27100033@lums.edu.pk,2,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,1,1,Amna Imran Rana,18 - 20,Female,1
+27100033@lums.edu.pk,3,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,7,7,Amna Imran Rana,18 - 20,Female,1
+27100033@lums.edu.pk,4,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,7,7,Amna Imran Rana,18 - 20,Female,1
+28020154@lums.edu.pk,1,images/ai/tsunami.png,Human-Created,FN (False Negative),AI,tsunami,FN,False,4,5,Imaad Mustafa,18 - 20,Male,1
+28020154@lums.edu.pk,2,images/real/football.png,Human-Created,TN (True Negative),Real,football,TN,True,3,5,Imaad Mustafa,18 - 20,Male,1
+28020154@lums.edu.pk,3,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,5,2,Imaad Mustafa,18 - 20,Male,1
+28020154@lums.edu.pk,4,images/ai/apples.png,AI-Generated,TP (True Positive),AI,apples,TP,True,6,2,Imaad Mustafa,18 - 20,Male,1
+26100379@lums.edu.pk,1,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,4,1,Yamsheen,21 - 23,Female,6
+26100379@lums.edu.pk,2,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,5,3,Yamsheen,21 - 23,Female,6
+26100379@lums.edu.pk,3,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,6,3,Yamsheen,21 - 23,Female,6
+26100379@lums.edu.pk,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,3,3,Yamsheen,21 - 23,Female,6
+27100160@lums.edu.pk,1,images/ai/feeding_the_poor.png,AI-Generated,TP (True Positive),AI,feeding_the_poor,TP,True,4,1,Muhammad Yahya Ali,18 - 20,Male,2
+27100160@lums.edu.pk,2,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,6,3,Muhammad Yahya Ali,18 - 20,Male,2
+27100160@lums.edu.pk,3,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,3,7,Muhammad Yahya Ali,18 - 20,Male,2
+27100160@lums.edu.pk,4,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,2,1,Muhammad Yahya Ali,18 - 20,Male,2
+27100479@lums.edu.pk,1,images/real/flood.png,Human-Created,TN (True Negative),Real,flood,TN,True,3,2,Your MOM,21 - 23,Female,3
+27100479@lums.edu.pk,2,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,5,4,Your MOM,21 - 23,Female,3
+27100479@lums.edu.pk,3,images/real/trekker.png,AI-Generated,FP (False Positive),Real,trekker,FP,False,3,6,Your MOM,21 - 23,Female,3
+27100479@lums.edu.pk,4,images/ai/stars.png,AI-Generated,TP (True Positive),AI,stars,TP,True,3,7,Your MOM,21 - 23,Female,3
+27110272@lums.edu.pk,1,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,4,1,Momina Sohail,18 - 20,Female,3
+27110272@lums.edu.pk,2,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,6,7,Momina Sohail,18 - 20,Female,3
+27110272@lums.edu.pk,3,images/ai/trekker.png,Human-Created,FN (False Negative),AI,trekker,FN,False,5,7,Momina Sohail,18 - 20,Female,3
+27110272@lums.edu.pk,4,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,3,6,Momina Sohail,18 - 20,Female,3
+26100003@lums.edu.pk,1,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,6,4,Muhammad arsalan anjad,21 - 23,Male,4
+26100003@lums.edu.pk,2,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,2,1,Muhammad arsalan anjad,21 - 23,Male,4
+26100003@lums.edu.pk,3,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,2,1,Muhammad arsalan anjad,21 - 23,Male,4
+26100003@lums.edu.pk,4,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,4,4,Muhammad arsalan anjad,21 - 23,Male,4
+26100222@lums.edu.pk,1,images/ai/earthquake.png,AI-Generated,TP (True Positive),AI,earthquake,TP,True,1,1,Haseeb Ashfaq Janjua,21 - 23,Male,1
+26100222@lums.edu.pk,2,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,4,1,Haseeb Ashfaq Janjua,21 - 23,Male,1
+26100222@lums.edu.pk,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,1,1,Haseeb Ashfaq Janjua,21 - 23,Male,1
+26100222@lums.edu.pk,4,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,5,1,Haseeb Ashfaq Janjua,21 - 23,Male,1
+sarfrazgo123@gmail.com,1,images/real/trekker.png,Human-Created,TN (True Negative),Real,trekker,TN,True,5,2,Sarfraz,21 - 23,Male,1
+sarfrazgo123@gmail.com,2,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,2,3,Sarfraz,21 - 23,Male,1
+sarfrazgo123@gmail.com,3,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,3,4,Sarfraz,21 - 23,Male,1
+sarfrazgo123@gmail.com,4,images/ai/feeding_the_poor.png,AI-Generated,TP (True Positive),AI,feeding_the_poor,TP,True,3,2,Sarfraz,21 - 23,Male,1
+ahsankhan7503@gmail.com,1,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,3,2,Muhammad Ahsan Khan Lodhi,21 - 23,Male,7
+ahsankhan7503@gmail.com,2,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,6,6,Muhammad Ahsan Khan Lodhi,21 - 23,Male,7
+ahsankhan7503@gmail.com,3,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,7,7,Muhammad Ahsan Khan Lodhi,21 - 23,Male,7
+ahsankhan7503@gmail.com,4,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,7,7,Muhammad Ahsan Khan Lodhi,21 - 23,Male,7
+27100139@lums.edu.pk,1,images/ai/trekker.png,AI-Generated,TP (True Positive),AI,trekker,TP,True,4,1,Muhammad Umar Malik,18 - 20,Male,7
+27100139@lums.edu.pk,2,images/ai/trump.png,Human-Created,FN (False Negative),AI,trump,FN,False,6,1,Muhammad Umar Malik,18 - 20,Male,7
+27100139@lums.edu.pk,3,images/real/mountain_clouds.png,AI-Generated,FP (False Positive),Real,mountain_clouds,FP,False,3,3,Muhammad Umar Malik,18 - 20,Male,7
+27100139@lums.edu.pk,4,images/real/cups.png,Human-Created,TN (True Negative),Real,cups,TN,True,6,3,Muhammad Umar Malik,18 - 20,Male,7
+moosakashif132@gmail.com,1,images/ai/football.png,AI-Generated,TP (True Positive),AI,football,TP,True,5,6,Moosa,21 - 23,Male,7
+moosakashif132@gmail.com,2,images/ai/mountains.png,Human-Created,FN (False Negative),AI,mountains,FN,False,5,6,Moosa,21 - 23,Male,7
+moosakashif132@gmail.com,3,images/real/refugees.png,Human-Created,TN (True Negative),Real,refugees,TN,True,6,4,Moosa,21 - 23,Male,7
+moosakashif132@gmail.com,4,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,3,3,Moosa,21 - 23,Male,7
+27100035@lums.edu.pk,1,images/ai/wildfire.png,AI-Generated,TP (True Positive),AI,wildfire,TP,True,3,5,Usman Zahid,21 - 23,Male,6
+27100035@lums.edu.pk,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,6,6,Usman Zahid,21 - 23,Male,6
+27100035@lums.edu.pk,3,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,3,1,Usman Zahid,21 - 23,Male,6
+27100035@lums.edu.pk,4,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,6,6,Usman Zahid,21 - 23,Male,6
+27100445@lums.edu.pk,1,images/ai/trump.png,AI-Generated,TP (True Positive),AI,trump,TP,True,4,7,Maaz Shahid,21 - 23,Male,6
+27100445@lums.edu.pk,2,images/real/wildfire.png,AI-Generated,FP (False Positive),Real,wildfire,FP,False,6,6,Maaz Shahid,21 - 23,Male,6
+27100445@lums.edu.pk,3,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,7,7,Maaz Shahid,21 - 23,Male,6
+27100445@lums.edu.pk,4,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,7,7,Maaz Shahid,21 - 23,Male,6
+mohammadhanifadam10@gmail.com,1,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,1,3,Mohammad hanif,18 - 20,Male,3
+mohammadhanifadam10@gmail.com,2,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,6,5,Mohammad hanif,18 - 20,Male,3
+mohammadhanifadam10@gmail.com,3,images/real/galaxy.png,AI-Generated,FP (False Positive),Real,galaxy,FP,False,3,6,Mohammad hanif,18 - 20,Male,3
+mohammadhanifadam10@gmail.com,4,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,7,6,Mohammad hanif,18 - 20,Male,3
+mahnoorbaloch46@gmail.com,1,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,3,1,Mahnoor ,24 - 26,Female,5
+mahnoorbaloch46@gmail.com,2,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,6,Mahnoor ,24 - 26,Female,5
+mahnoorbaloch46@gmail.com,3,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,3,5,Mahnoor ,24 - 26,Female,5
+mahnoorbaloch46@gmail.com,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,3,2,Mahnoor ,24 - 26,Female,5
+26110037@lums.edu.pk,1,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,2,3,Fiza Sajid,21 - 23,Female,2
+26110037@lums.edu.pk,2,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,4,4,Fiza Sajid,21 - 23,Female,2
+26110037@lums.edu.pk,3,images/ai/earthquake.png,Human-Created,FN (False Negative),AI,earthquake,FN,False,6,6,Fiza Sajid,21 - 23,Female,2
+26110037@lums.edu.pk,4,images/real/mountains.png,AI-Generated,FP (False Positive),Real,mountains,FP,False,2,3,Fiza Sajid,21 - 23,Female,2
+norirana20@gmail.com,1,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,5,2,Mahnoor Sajid,24 - 26,Female,1
+norirana20@gmail.com,2,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,1,1,Mahnoor Sajid,24 - 26,Female,1
+norirana20@gmail.com,3,images/real/flood.png,AI-Generated,FP (False Positive),Real,flood,FP,False,2,2,Mahnoor Sajid,24 - 26,Female,1
+norirana20@gmail.com,4,images/ai/apples.png,Human-Created,FN (False Negative),AI,apples,FN,False,2,2,Mahnoor Sajid,24 - 26,Female,1
+27020312@lums.edu.pk,1,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,3,1,Fatima Naair,21 - 23,Female,4
+27020312@lums.edu.pk,2,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,5,3,Fatima Naair,21 - 23,Female,4
+27020312@lums.edu.pk,3,images/ai/stars.png,Human-Created,FN (False Negative),AI,stars,FN,False,7,6,Fatima Naair,21 - 23,Female,4
+27020312@lums.edu.pk,4,images/real/mountains.png,Human-Created,TN (True Negative),Real,mountains,TN,True,7,7,Fatima Naair,21 - 23,Female,4
+27100016@lums.edu.pk,1,images/real/ladies_with_bags.png,AI-Generated,FP (False Positive),Real,ladies_with_bags,FP,False,5,1,Hussain Habib,21 - 23,Male,6
+27100016@lums.edu.pk,2,images/real/wildfire.png,Human-Created,TN (True Negative),Real,wildfire,TN,True,5,2,Hussain Habib,21 - 23,Male,6
+27100016@lums.edu.pk,3,images/ai/mountains.png,AI-Generated,TP (True Positive),AI,mountains,TP,True,2,3,Hussain Habib,21 - 23,Male,6
+27100016@lums.edu.pk,4,images/ai/football.png,Human-Created,FN (False Negative),AI,football,FN,False,4,5,Hussain Habib,21 - 23,Male,6
+27100244@lums.edu.pk,1,images/real/cups.png,AI-Generated,FP (False Positive),Real,cups,FP,False,2,1,Sarim Mirza,21 - 23,Male,4
+27100244@lums.edu.pk,2,images/ai/wildfire.png,Human-Created,FN (False Negative),AI,wildfire,FN,False,6,4,Sarim Mirza,21 - 23,Male,4
+27100244@lums.edu.pk,3,images/real/galaxy.png,Human-Created,TN (True Negative),Real,galaxy,TN,True,6,6,Sarim Mirza,21 - 23,Male,4
+27100244@lums.edu.pk,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,3,1,Sarim Mirza,21 - 23,Male,4
+27100356@lums.edu.pk,1,images/ai/feeding_the_poor.png,Human-Created,FN (False Negative),AI,feeding_the_poor,FN,False,3,5,Noor ijaz,18 - 20,Male,2
+27100356@lums.edu.pk,2,images/real/ladies_with_bags.png,Human-Created,TN (True Negative),Real,ladies_with_bags,TN,True,1,1,Noor ijaz,18 - 20,Male,2
+27100356@lums.edu.pk,3,images/real/refugees.png,AI-Generated,FP (False Positive),Real,refugees,FP,False,5,2,Noor ijaz,18 - 20,Male,2
+27100356@lums.edu.pk,4,images/ai/tsunami.png,AI-Generated,TP (True Positive),AI,tsunami,TP,True,3,4,Noor ijaz,18 - 20,Male,2

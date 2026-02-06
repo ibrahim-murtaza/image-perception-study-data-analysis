@@ -1,0 +1,66 @@
+
+================================================================================
+IMAGE PERCEPTION STUDY - RESULTS SUMMARY
+================================================================================
+
+SAMPLE:
+- Total Participants: 117
+- Total Observations: 468 (4 per participant)
+- Age Range: ['21 - 23', '18 - 20', '24 - 26', '27 or above']
+- Gender: {'Male': np.int64(68), 'Female': np.int64(48), 'Other': np.int64(1)}
+- AI Familiarity: M = 4.34, SD = 1.96
+
+MAIN FINDINGS:
+
+1. IMAGE ORIGIN EFFECT (Correctly Labeled Only):
+   Effort Rating:
+   - AI Images:   M = 3.85, SD = 1.66
+   - Real Images: M = 4.91, SD = 1.69
+   - t(116) = -5.262, p = 0.0000, d_z = -0.486
+
+   Sharing Intent:
+   - AI Images:   M = 3.38, SD = 2.12
+   - Real Images: M = 4.21, SD = 2.04
+   - t(116) = -3.681, p = 0.0004, d_z = -0.340
+
+2. ORIGIN × LABEL INTERACTION:
+   See ANOVA results and interaction plots for detailed analysis.
+   - Effort: Significant crossover interaction (F = 27.23, p < 0.0001)
+   - Sharing: Significant crossover interaction (F = 15.63, p = 0.0001)
+   - LMM: Origin × Label β = 1.932 (effort), 1.402 (sharing), both p < 0.001
+
+3. SPECIFIC CONDITIONS:
+   FP (Real→AI): Effort = 3.94, Sharing = 3.60
+   FN (AI→Real): Effort = 4.80, Sharing = 4.17
+   TP (AI→AI):   Effort = 3.85, Sharing = 3.38
+   TN (Real→Real): Effort = 4.91, Sharing = 4.21
+
+4. HETEROGENEITY ANALYSES:
+   Gender Moderation:
+   - Effort 3-way interaction: p = 0.9817
+   - Sharing 3-way interaction: p = 0.5540
+   - Conclusion: No significant gender moderation
+
+   AI Familiarity Moderation:
+   - Correlation with Effort Sensitivity:  r = -0.092, p = 0.3228
+   - Correlation with Sharing Sensitivity: r = -0.056, p = 0.5466
+   - Conclusion: No moderation effect (expertise doesn't protect against labels)
+
+5. MODEL FIT:
+   LMM Variance Explained (Marginal R²):
+   - Effort: 8.3% (manipulation accounts for modest variance)
+   - Sharing: 5.2% (low but expected for 7-point scales)
+
+FILES GENERATED:
+- merged_data.csv
+- summary_statistics.csv
+- dv_distributions.png
+- effort_sharing_correlation.png
+- image_origin_effect.png
+- all_conditions_comparison.png
+- interaction_plot.png
+- image_level_effects.png
+- gender_moderation.png
+- familiarity_moderation.png
+
+================================================================================
